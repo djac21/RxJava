@@ -1,1 +1,1 @@
-App that integrates the RxJava library to make async tasks while making network calls to get new feeds
+App that integrates the RxJava library to make async tasks while making network calls to get top news feeds
